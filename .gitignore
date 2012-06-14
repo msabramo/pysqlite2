@@ -1,0 +1,8 @@
+.hg*
+amalgamation
+build
+dist/*
+pysqlite.egg-info/
+*.pyc
+.tox
+MANIFEST
